@@ -1,0 +1,1 @@
+// Constant and reusable data
